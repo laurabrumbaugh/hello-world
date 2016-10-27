@@ -15,3 +15,9 @@ https://www.youtube.com/user/GitHubGuides               : video guides
 GitHub Desktop:
 
 https://guides.github.com/introduction/getting-your-project-on-github/
+
+Git:
+
+https://git-scm.com/           : Git home page
+
+
